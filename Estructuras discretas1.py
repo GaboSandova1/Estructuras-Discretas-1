@@ -46,7 +46,7 @@ def calcular():
 # Crear la ventana
 ventana = tk.Tk()
 ventana.title("Calculadora de Permutaciones, Combinaciones y Arreglos")
-ventana.geometry("400x400")  # Tamaño de la ventana
+ventana.geometry("650x400")  # Tamaño de la ventana
 
 # Etiquetas y campos de entrada
 label_n = tk.Label(ventana, text="Valor de n:")
